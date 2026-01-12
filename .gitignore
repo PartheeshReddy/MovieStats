@@ -8,3 +8,4 @@ yarn-error.log*
 *.docx
 .vscode/
 .idea/
+SE_Project/config.local.js
